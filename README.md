@@ -17,7 +17,7 @@ This project aims at studying a research article involving high-frequency tradin
 
 ## Data description
 
-This article's using Level 1 (L1) data from **`SOGCGEN.PA`** (intraday data) for only one day: *April 18, 2011* between 9:30 and 16:30 in Paris local time (UTC+1).
+This article's using Level 1 (L1) data from **`SOGCGEN.PA`** (intraday data) for only one day: *April 18, 2011* between 9:30 and 16:30 in Paris local time (CET, UTC+2).
 
 To reproduce the method introduced in this article, one applies it to L1 (tick data) sample dataset available on [TickHistory](https://tickhistory.com/)'s website.
 
