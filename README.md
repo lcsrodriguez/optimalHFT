@@ -15,7 +15,27 @@ This project aims at studying a research article involving high-frequency tradin
     - Link: [arxiv (1106.5040)](https://arxiv.org/abs/1106.5040) [(PDF)](https://arxiv.org/pdf/1106.5040.pdf) [(HTML via ar5iv)](https://ar5iv.labs.arxiv.org/html/1106.5040)
 - Keywords: *Market making, limit order book, inventory risk, point process, stochastic control*
 
-## References
+## Data description
+
+This article's using Level 1 (L1) data from **`SOGCGEN.PA`** (intraday data) for only one day: *April 18, 2011* between 9:30 and 16:30 in Paris local time (UTC+1).
+
+To reproduce the method introduced in this article, one applies it to L1 (tick data) sample dataset available on [TickHistory](https://tickhistory.com/)'s website.
+
+**Dataset description**:
+- **GOOG**: `trades` and `quotes` data
+- **MSFT**: `trades` and `quotes` data
+
+```
+.
+├── tickhistory_sample
+│   ├── GOOG_Quote_2022_01_03.txt
+│   ├── GOOG_Trade_2022_01_03.txt
+│   ├── MSFT_Quote_2022_01_03.txt
+│   ├── MSFT_Trade_2022_01_03.txt
+│   ├── file_format_details.txt
+│   └── tick_history_ticker_coverage.txt
+└── tickhistory_sample.zip
+```
 
 Data from:
 - https://tickhistory.com/
