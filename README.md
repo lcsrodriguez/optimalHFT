@@ -1,4 +1,4 @@
-# Stochastic Control & HFT
+# Optimal HF trading (HFT & Stochastic Control)
 
 <img src="https://img.shields.io/static/v1?label=Range&message=Academic project&color=007bff"/>&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=Languages&message=Python&color=ff0000"/> 
 
@@ -55,4 +55,7 @@ jupyter-notebook .
 
 ## License
 
-Adrien NAVARRO - Lucas RODRIGUEZ
+Check [LICENSE](LICENSE) file
+
+- **Adrien NAVARRO** - **Lucas RODRIGUEZ**
+- *Academic works (March - May 2023)
