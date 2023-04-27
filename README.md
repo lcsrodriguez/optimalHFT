@@ -1,5 +1,9 @@
 # Stochastic Control & HFT
 
+<img src="https://img.shields.io/static/v1?label=Range&message=Academic project&color=007bff"/>&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=Languages&message=Python&color=ff0000"/> 
+
+
+**Workflows**: ![](https://img.shields.io/badge/Dependabot-enabled-blue)
 
 
 ## Overview
@@ -17,3 +21,18 @@ Data from:
 - https://tickhistory.com/
 - https://firstratedata.com/tick-data
 
+## Getting started
+
+1. Install required modules:
+```
+pip3 install -r requirements.txt
+```
+
+2. Launch a Jupyter instance
+```
+jupyter-notebook .
+```
+
+## License
+
+Adrien NAVARRO - Lucas RODRIGUEZ
