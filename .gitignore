@@ -5,3 +5,5 @@ img/
 .DS_Store
 __pycache__
 .ipynb_checkpoints/
+out/
+!out/.gitkeep
