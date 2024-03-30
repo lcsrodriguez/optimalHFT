@@ -58,4 +58,4 @@ jupyter-notebook .
 Check [LICENSE](LICENSE) file
 
 - **Adrien NAVARRO** - **Lucas RODRIGUEZ**
-- *Academic works (March - May 2023)
+- Academic works (March - May 2023)
